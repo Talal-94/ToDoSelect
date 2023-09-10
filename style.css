@@ -104,6 +104,8 @@ select {
     font-family: inherit;
 }
 
+
+
 .select::after {
     content: "\25bc";
     position: absolute;
